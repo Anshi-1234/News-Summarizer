@@ -1,0 +1,6 @@
+transformers
+streamlit
+faiss-cpu
+newsapi-python
+sentence-transformers
+nltk
