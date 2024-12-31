@@ -43,4 +43,4 @@ def summarize():
         return render_template('index.html', summaries=summaries)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True,use_reloader=False)
